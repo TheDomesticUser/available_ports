@@ -1,0 +1,9 @@
+Total ports tested: 27
+Total available ports: 27
+Total unavailable ports: 0
+
+Usable ports: 
+1024-1050
+
+Unusable ports: 
+
